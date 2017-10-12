@@ -15,8 +15,8 @@ I grew up in <u>Hong kong<u/> and moved to Brooklyn,NY in 2011. I'm currently a 
  * period 8:Physics 
   
 ##### Hobbies:
-gaming  
-playing basketball  
-swimming  
-coding  
+1.gaming  
+2.playing basketball  
+3.swimming  
+4.coding  
  

@@ -1,9 +1,9 @@
 ### **Toby lau**      
-<u>[My website](https://sites.google.com/a/hstat.org/yatchol6214sep11/)<u>
+<u>[My website](https://sites.google.com/a/hstat.org/yatchol6214sep11/)</u>
 ---
 _**High school of telecommunication Arts and Technology**_
   
-I grew up in Hong kong and moved to Brooklyn,NY in 2011. I'm currently a student of HSTAT and a part of the SEP class...  
+I grew up in <u>Hong kong<u/> and moved to Brooklyn,NY in 2011. I'm currently a student of HSTAT and a part of the SEP class...  
 #### Schedue:  
  * period 1:English  
  * period 2:US History  
@@ -12,4 +12,11 @@ I grew up in Hong kong and moved to Brooklyn,NY in 2011. I'm currently a student
  * period 5:Spanish  
  * period 6:Lunch  
  * period 7:SEP  
- * period 8:Physics  
+ * period 8:Physics 
+  
+##### Habits:
+ * gaming
+ * playing basketball
+ * swimming 
+ * coding 
+ 

@@ -14,7 +14,7 @@ I grew up in <u>Hong kong<u/> and moved to Brooklyn,NY in 2011. I'm currently a 
  * period 7:SEP  
  * period 8:Physics 
   
-##### Habits:
+##### Hobbies:
 gaming  
 playing basketball  
 swimming  
